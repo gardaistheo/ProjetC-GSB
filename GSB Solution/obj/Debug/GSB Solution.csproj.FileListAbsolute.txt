@@ -1,0 +1,23 @@
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB Solution.csproj.AssemblyReference.cache
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB Solution.csproj.SuggestedBindingRedirects.cache
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB Solution.exe.config
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB_Solution.Form1.resources
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB_Solution.Properties.Resources.resources
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB Solution.csproj.GenerateResource.cache
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB Solution.csproj.CoreCompileInputs.cache
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\GSB Solution.exe.config
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\GSB Solution.exe
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\GSB Solution.pdb
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\MySql.Data.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\Google.Protobuf.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\ZstdNet.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\K4os.Compression.LZ4.Streams.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\BouncyCastle.Crypto.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\Ubiety.Dns.Core.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\System.Buffers.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\K4os.Compression.LZ4.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\K4os.Hash.xxHash.dll
+W:\GSB\GSB Solution\GSB Solution\bin\Debug\MySql.Data.xml
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB Solution.csproj.CopyComplete
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB Solution.exe
+W:\GSB\GSB Solution\GSB Solution\obj\Debug\GSB Solution.pdb
